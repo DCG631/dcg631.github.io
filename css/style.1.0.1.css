@@ -1319,13 +1319,13 @@ header .navbar-brand img {
 }
 
 .page-title{
+    background:url("/img/hero_img.png");
     position:relative;
     text-align:center;
-    padding: 200px 0 150px 0;
+    padding: 200px 0 0px 0;
     background-size: cover;
-    background-position: center; /* Modified: Center the background image */
+    background-position: top center;
 }
-
 .page-title .auto-container{
     position:relative;
 }
