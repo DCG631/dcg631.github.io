@@ -1319,10 +1319,8 @@ header .navbar-brand img {
 }
 
 .page-title{
-    background:url("/img/hero_img.png");
     position:relative;
     text-align:center;
-    padding: 200px 0 0px 0;
     background-size: cover;
     background-position: top center;
 }
@@ -1335,7 +1333,7 @@ header .navbar-brand img {
     color:#ffffff;
     font-weight:bold;
     line-height:1.2em;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     font-size: 60px;
     text-transform:capitalize;
     font-family: 'Montserrat', sans-serif;
